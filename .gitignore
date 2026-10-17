@@ -1,0 +1,16 @@
+# Terraform state can contain secrets and must never be committed
+terraform.tfstate
+terraform.tfstate.*
+*.tfstate
+*.tfstate.backup
+
+# Local provider plugins and plan files
+.terraform/
+*.tfplan
+crash.log
+
+# Variable files may hold secrets
+*.tfvars
+*.tfvars.json
+
+# Keep the lock file (do NOT ignore .terraform.lock.hcl)

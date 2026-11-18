@@ -85,7 +85,7 @@ Everything in the resource group:
 - **Deny outbound blocks updates.** The OT subnet cannot reach the internet, so patching would need a controlled path (a proxy or update server).
 - **Local state only.** State sat in a local file. A team setup would use remote state with locking.
 - **Cloud Shell is ephemeral.** I downloaded my files before cleanup so nothing was lost if the session reset.
-- **Small mistakes along the way:** a typo in my `PATH` export left the shell at a `>` prompt (fixed with Ctrl+C), and Checkov printed a pip dependency warning that did not affect results.
+
 
 ## Files
 

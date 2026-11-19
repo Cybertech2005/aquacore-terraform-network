@@ -4,6 +4,10 @@ Week 4, project 2 of my Azure portfolio. I rebuilt a segmented network for a **f
 
 > **Scope note:** built in Azure Cloud Shell. Fictional scenario, not a production deployment. No VMs are attached yet, so this is the network layer only.
 
+## Walkthrough
+
+[![Click here for walkthrough](https://img.shields.io/badge/▶%20Click%20here%20for%20walkthrough-625DF5?style=for-the-badge&logo=loom&logoColor=white)](https://www.loom.com/share/0f4f2a2d4dd948fc802b68167f3ec81b)
+
 
 ## Scenario
 
